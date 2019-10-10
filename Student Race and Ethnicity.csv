@@ -1,0 +1,41 @@
+ID IPEDS Race,IPEDS Race,ID Year,Year,Completions,Geography,ID Geography,Slug Geography,share
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2016,"2016",550,"New York","04000US36","new-york",0.001832752961562172
+"white","White",2016,"2016",161944,"New York","04000US36","new-york",0.5396424465585897
+"asian","Asian",2016,"2016",27708,"New York","04000US36","new-york",0.09233076192539029
+"multiracial","Two or More Races",2016,"2016",6590,"New York","04000US36","new-york",0.021959712757626752
+"native","American Indian or Alaska Native",2016,"2016",955,"New York","04000US36","new-york",0.0031823255968943167
+"black","Black or African American",2016,"2016",39853,"New York","04000US36","new-york",0.13280127959479499
+"unknown","Unknown",2016,"2016",17334,"New York","04000US36","new-york",0.0577617087922158
+"hispanic","Hispanic or Latino",2016,"2016",45161,"New York","04000US36","new-york",0.1504890118129259
+"asian","Asian",2015,"2015",27042,"New York","04000US36","new-york",0.08980174675389367
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2015,"2015",545,"New York","04000US36","new-york",0.0018098495666323514
+"hispanic","Hispanic or Latino",2015,"2015",42711,"New York","04000US36","new-york",0.141835752000797
+"unknown","Unknown",2015,"2015",18578,"New York","04000US36","new-york",0.061694284860359314
+"black","Black or African American",2015,"2015",40156,"New York","04000US36","new-york",0.13335104439942883
+"multiracial","Two or More Races",2015,"2015",5915,"New York","04000US36","new-york",0.019642679241523596
+"white","White",2015,"2015",165055,"New York","04000US36","new-york",0.5481187526981702
+"native","American Indian or Alaska Native",2015,"2015",1128,"New York","04000US36","new-york",0.003745890479195032
+"black","Black or African American",2014,"2014",39754,"New York","04000US36","new-york",0.13025172914298072
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2014,"2014",577,"New York","04000US36","new-york",0.0018905078159556239
+"asian","Asian",2014,"2014",26201,"New York","04000US36","new-york",0.08584609234983241
+"multiracial","Two or More Races",2014,"2014",5717,"New York","04000US36","new-york",0.01873142666173016
+"unknown","Unknown",2014,"2014",20795,"New York","04000US36","new-york",0.06813363957157227
+"white","White",2014,"2014",170551,"New York","04000US36","new-york",0.5588006906742593
+"hispanic","Hispanic or Latino",2014,"2014",40637,"New York","04000US36","new-york",0.13314482862563032
+"native","American Indian or Alaska Native",2014,"2014",977,"New York","04000US36","new-york",0.003201085158039245
+"unknown","Unknown",2013,"2013",21713,"New York","04000US36","new-york",0.07201753920450023
+"native","American Indian or Alaska Native",2013,"2013",994,"New York","04000US36","new-york",0.0032968928277655424
+"asian","Asian",2013,"2013",25224,"New York","04000US36","new-york",0.08366280149653726
+"black","Black or African American",2013,"2013",38733,"New York","04000US36","new-york",0.1284693660944092
+"multiracial","Two or More Races",2013,"2013",4126,"New York","04000US36","new-york",0.013685090349457373
+"white","White",2013,"2013",172684,"New York","04000US36","new-york",0.5727571841749144
+"hispanic","Hispanic or Latino",2013,"2013",37413,"New York","04000US36","new-york",0.12409119855653143
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2013,"2013",609,"New York","04000US36","new-york",0.0020199272958845225
+"native","American Indian or Alaska Native",2012,"2012",998,"New York","04000US36","new-york",0.003275847354704025
+"hispanic","Hispanic or Latino",2012,"2012",35830,"New York","04000US36","new-york",0.11760882837579681
+"unknown","Unknown",2012,"2012",25870,"New York","04000US36","new-york",0.0849160030723378
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2012,"2012",557,"New York","04000US36","new-york",0.0018283035837376171
+"white","White",2012,"2012",173781,"New York","04000US36","new-york",0.5704208708895994
+"multiracial","Two or More Races",2012,"2012",3767,"New York","04000US36","new-york",0.012364846678527115
+"black","Black or African American",2012,"2012",38487,"New York","04000US36","new-york",0.12633019753556493
+"asian","Asian",2012,"2012",25364,"New York","04000US36","new-york",0.08325510250973235
